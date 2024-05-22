@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.vr-logo {
+    height: 70px;
+    width: 80px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+.banner-section-bg-container {
+    height: 100vh;
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png');
+    background-size: cover;
+}
+
+.banner-heading {
+    color: white;
+    font-family: Roboto;
+}
+
+.custom-button {
+    background-color: #1a2137;
+    color: white;
+    font-family: Roboto;
+    border-style: solid;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 8px;
+    border-width: 0px;
+    margin-right: 10px;
+}
+
+.wfs-section {
+    background-color: #f9fbfe;
+}
+
+.wfs-title {
+    font-family: Bree Serif;
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.wfs-card {
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 16px;
+    border-color: #e5eaf4;
+}
+
+.wfs-card-image {
+    height: 90px;
+    width: 87px;
+}
+
+.wfs-card-heading {
+    font-family: Roboto;
+    font-weight: 550;
+    font-size: 22px;
+    color: #323f4b;
+}
+
+.wfs-card-description {
+    font-family: Roboto;
+    font-size: 16px;
+    color: #7b8794;
+}
+
+.wfs-card-description-interaction {
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: italic;
+    color: #7b8794;
+}
+
+.nat {
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.wks-section {
+    background-color: #f9fbfe;
+}
+
+.wks-section-heading {
+    font-family: Bree Serif;
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+
+.wks-card {
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 16px;
+    border-color: #e5eaf4;
+}
+
+.wks-card-image {
+    height: 150px;
+    width: 150px;
+}
+
+.wks-card-title {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 22px;
+    color: #323f4b;
+}
+
+.title {
+    color: black;
+    font-family: Roboto;
+    font-weight: 550;
+}
+
+.description {
+    color: grey;
+}
+
+.butt {
+    color: white;
+    background-color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-radius: 3px;
+}
+
+.bgcontainer {
+    background-color: #222b36;
+}
+
+.heading {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+button {
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    border-radius: 3px;
+    padding: 5px;
+    margin: 5px;
+}
